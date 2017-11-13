@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trophies</string>
+    <string name="text_common">Common</string>
+    <string name="rare">Rare</string>
+    <string name="in_progress">In Progress</string>
+    <string name="locked">Locked</string>
+    <string name="trophy">Trophy</string>
+</resources>

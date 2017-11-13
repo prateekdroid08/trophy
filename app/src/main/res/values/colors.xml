@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_color1">#926DFF</color>
+    <color name="text_color2">#9B9B9B</color>
+    <color name="top_nav_color1">#AE6CFF</color>
+    <color name="top_nav_color2">#796CFF</color>
+    <color name="progress_color_bg">#E2C7FB</color>
+</resources>
